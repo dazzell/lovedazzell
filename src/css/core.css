@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+:root{
+    --theme-color:rgb(216, 255, 0)
+}
+
+
+body{
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    
+}
+.theme-bg{
+    background-color: var(--theme-color);
+}
+
+.theme-color{
+    color: var(--theme-color);
+}
+
+.font-style{
+    font-family: 'Merriweather', serif;
+}
+
+.color-border{
+    border-left: 1px solid var(--theme-color);
+    padding: 0px 15px;
+}
+
+.heading-name{
+    font-size: 5rem;
+    padding-left: 7rem;
+    color:var(--theme-color)
+}
+
+.logo-bg{
+    background-color: rgb(37, 37, 37);
+}
+
+
+.box{
+position: relative;
+
+}
+
+
