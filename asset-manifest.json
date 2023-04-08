@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/lovedazzell/static/css/main.dff0f263.css",
+    "main.js": "/lovedazzell/static/js/main.2fb636c1.js",
+    "static/js/787.681848be.chunk.js": "/lovedazzell/static/js/787.681848be.chunk.js",
+    "static/media/ra.png": "/lovedazzell/static/media/ra.5b25f2d3949767f9155d.png",
+    "static/media/love.png": "/lovedazzell/static/media/love.be38ee9dfb1b7790c748.png",
+    "static/media/sa.png": "/lovedazzell/static/media/sa.b3d0ba006d7182902041.png",
+    "static/media/tr.png": "/lovedazzell/static/media/tr.8764a31009260e5f322d.png",
+    "static/media/in.png": "/lovedazzell/static/media/in.6e12c2971774a9620f32.png",
+    "static/media/react.png": "/lovedazzell/static/media/react.dceaa1723fa4b0f19ff5.png",
+    "static/media/ig.png": "/lovedazzell/static/media/ig.c463e96f90bb83094b35.png",
+    "static/media/ajax.png": "/lovedazzell/static/media/ajax.9efbffd77713739adbe6.png",
+    "static/media/js.png": "/lovedazzell/static/media/js.3b96e504c9c9155f4c4c.png",
+    "index.html": "/lovedazzell/index.html",
+    "main.dff0f263.css.map": "/lovedazzell/static/css/main.dff0f263.css.map",
+    "main.2fb636c1.js.map": "/lovedazzell/static/js/main.2fb636c1.js.map",
+    "787.681848be.chunk.js.map": "/lovedazzell/static/js/787.681848be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dff0f263.css",
+    "static/js/main.2fb636c1.js"
+  ]
+}
