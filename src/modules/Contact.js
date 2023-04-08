@@ -50,17 +50,12 @@ export default function Contact() {
              </div>
 
              <div className="col-12 my-2" data-aos="slide-up" data-aos-duration="1000" >
-             <textarea name="textarea" className=' text-light contact-input w-100 'placeholder='MESSAGE'  id="" cols="30" rows="10"></textarea>
+             <textarea name="textarea" className=' text-light contact-input w-100 'placeholder='MESSAGE'  id="" cols="30" rows="6"></textarea>
              </div>
 
              <div className="col"  data-aos="slide-up" data-aos-duration="1300">
-   
-                <button class="button-33 mx-4" role="button">Send Message</button>
-
-
+                <button class="button-33 mx-4" type='button' >Send Message</button>
              </div>
-              
-
             </div>
           </div>
 
